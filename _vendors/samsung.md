@@ -1,4 +1,4 @@
----
+j410---
 name: Samsung
 manufacturer:
   - samsung
